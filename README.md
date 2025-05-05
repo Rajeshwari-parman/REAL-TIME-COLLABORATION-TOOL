@@ -70,4 +70,15 @@ Access the app at: http://localhost:5001
 
 ## Output
 
+1. Collaborative Tool UI:
+   
+  ![Image](https://github.com/user-attachments/assets/c88015c0-c37b-43d0-8f0d-c9d2f50a74c3)
+
+2. User 1 Typing (Left Side):
+
+  ![Image](https://github.com/user-attachments/assets/0d1ca412-3c11-4a20-af3c-456977999031)
+
+3. User 2 Typing (Right Side):
+
+  ![Image](https://github.com/user-attachments/assets/86229da6-604a-47bd-8ff6-5b2d3d2e282e)
 
