@@ -14,7 +14,7 @@ MENTOR: NEELA SANTOSH
 
 ## Description
 
-This project is a real-time collaboration tool developed using WebSocket, Node.js, React, and MongoDB, designed to facilitate seamless collaboration between multiple users on shared documents or workspaces. The primary goal was to build an interactive and synchronized platform for remote teams, students, or professionals, allowing them to edit content, exchange messages, and upload files simultaneously — all without page reloads.
+This project is a real-time collaboration tool developed using WebSocket, Node.js, React,  designed to facilitate seamless collaboration between multiple users on shared documents or workspaces. The primary goal was to build an interactive and synchronized platform for remote teams, students, or professionals, allowing them to edit content, exchange messages, and upload files simultaneously — all without page reloads.
 
 The tool enables instant updates, so all users see changes reflected in real-time, improving team productivity and communication. Its user-centric design focuses on responsiveness, live feedback, and accessibility across devices.
 
