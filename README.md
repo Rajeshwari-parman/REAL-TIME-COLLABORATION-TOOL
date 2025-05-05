@@ -26,8 +26,6 @@ Node.js + Express.js: Acts as the backend server. Handles routing, session manag
 
 React: Powers the frontend. The component-based architecture ensures smooth state updates, live workspace rendering, and responsive UI.
 
-MongoDB: Stores user credentials, session info, and document data. Offers flexibility and scalability as the app grows.
-
 ## Key Features
 
 Real-Time Editing: Users can work collaboratively on shared content. Edits are synchronized live using WebSocket broadcasting.
