@@ -1,7 +1,5 @@
 # REAL-TIME-COLLABORATION-TOOL
 
-NAME: RAJESHWARI B
-
 ## Description
 
 This project is a real-time collaboration tool developed using WebSocket, Node.js, React,  designed to facilitate seamless collaboration between multiple users on shared documents or workspaces. The primary goal was to build an interactive and synchronized platform for remote teams, students, or professionals, allowing them to edit content, exchange messages, and upload files simultaneously — all without page reloads.
